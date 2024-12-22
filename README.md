@@ -1,0 +1,2 @@
+# StatisticalArbitrage
+StatisticalArbitrage Equities
