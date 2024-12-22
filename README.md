@@ -1,2 +1,2 @@
 # StatisticalArbitrage
-StatisticalArbitrage Equities
+This project implements a statistical arbitrage trading algorithm that identifies pairs of cointegrated stocks, models their spread using linear regression, and executes a mean-reversion strategy based on z-score thresholds. It fetches historical price data, selects pairs with strong cointegration, and backtests the strategy to evaluate performance through key metrics like Sharpe Ratio and portfolio value. The algorithm provides visualizations of stock trends, spreads, and portfolio performance, serving as a foundation for quantitative trading strategies in financial markets.
